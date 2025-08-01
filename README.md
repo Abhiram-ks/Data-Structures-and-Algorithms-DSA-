@@ -3,7 +3,7 @@
 Learning DSA isn't just about algorithms, it's about developing a mindset to think critically and solve problems creatively. When I started my project, I realized how much DSA enhanced my ability to find efficient solutions. This experience showed me how important it is to know the basics to build better and more useful projects.
 
 DSA is like the fitness test for engineers, it doesn't mean you'll be lifting heavy weights right away, but it shows you've got the potential to get stronger.
-Node: Welcome to the Data Structures and Algorithms (DSA) repository written in Dart designed for developers who want to master the core fundamentals of DSA using a modern, clean, and object-oriented language.
+Note: Welcome to the Data Structures and Algorithms (DSA) repository written in Dart designed for developers who want to master the core fundamentals of DSA using a modern, clean, and object-oriented language.
 
 # What is DSA?
 
