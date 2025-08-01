@@ -72,3 +72,26 @@ Together, they help build fast | efficient | scalable | optimized
 | Longest Common Subsequence  | O(n·m)      | O(n·m)    |
 | Matrix Chain Multiplication | O(n³)       | O(n²)     |
 | Coin Change (Min Coins)     | O(n·amount) | O(amount) |
+
+
+# What is Asymptotic Notation?
+Asymptotic Notation is a mathematical tool used in computer science to describe the efficiency of algorithms in terms of time and space — especially as the input size (n) becomes very large. Instead of exact values, it focuses on the growth rate of an algorithm (how fast time or space increases as input grows), and ignores constants or low-level machine details.
+
+# Why Use Asymptotic Notation?
+- To compare algorithms independent of hardware
+- To describe performance at scale
+- To express Time Complexity and Space Complexity
+
+# Types of Asymptotic Notation
+1. Big-O Notation — O(f(n))
+- Describes the worst-case scenario.
+- Shows the maximum time or space an algorithm can take.
+  
+2. Omega Notation — Ω(f(n))
+- Describes the best-case scenario.
+- Shows the minimum time or space required by the algorithm.
+
+3. Theta Notation — Θ(f(n))
+- Describes the exact (tight) bound.
+- Used when best, average, and worst-case have the same growth rate.
+- Shows the actual growth rate of the algorithm.
